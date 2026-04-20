@@ -14,7 +14,7 @@ const events = [
     color: '#3b82f6',
   },
   {
-    year: '2020-2020',
+    year: '2020-2021',
     title: 'Resilience Through Covid-19',
     description: 'Successfully balanced academic responsibilities during a global crisis. This period was pivotal in developing my ability to learn complex technical concepts independently while staying focused on my long-term goals.',
     color: '#3b82f6',
