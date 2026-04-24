@@ -51,7 +51,7 @@ export default function Home() {
               Available for Projects
             </div>
             <h1 className="font-headline text-6xl md:text-7xl lg:text-[64px] font-bold tracking-tight leading-[1] mb-8">
-              Software Engineering Enthusiast. <br /> & <span className="text-primary">Software Developer.</span>
+              CSE Student. <br /> & <span className="text-primary">Software Developer.</span>
             </h1>
             <p className="text-text-dim text-lg md:text-xl max-w-xl font-normal mb-10 leading-relaxed">
               Final-year CSE student exploring mobile development and data science. Experienced in building personal projects with Flutter, Dart, Java, and Python, alongside a growing foundation in Machine Learning and its core libraries.</p>
