@@ -6,7 +6,7 @@ const projects = [
   {
     id: '01',
     title: 'Video File Converter',
-    description: 'a client-side video conversion tool using React and FFmpeg.wasm, enabling multithreaded .ts to .mp4 transcoding directly in the browser with real-time progress tracking and zero data transmission.',
+    description: 'A client-side video conversion tool using React and FFmpeg.wasm, enabling multithreaded .ts to .mp4 transcoding directly in the browser with real-time progress tracking and zero data transmission.',
     link: "https://ts-to-mp4-video-converter.vercel.app/",
     tags: ['React', 'JavaScript', 'FFmpeg'],
     
@@ -15,7 +15,7 @@ const projects = [
     id: '02',
     title: 'Flutter Mini-Cart',
     description: "A mobile application developed to explore Flutter's widget tree and UI layout principles. It provides a straightforward, user-friendly interface for adding and removing products within a functional checkout cart.",
-    link: 'https://github.com/TurjjoHalder/Flutter_CSC464_Flutter_Final_Project-Group3-Section1-P003',
+    link: 'https://github.com/TurjjoHalder/QuickBasket',
     tags: ['Flutter', 'Dart', 'Firestore', 'Provider'],
     
   },
